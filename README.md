@@ -1,6 +1,6 @@
 # To-Do-List
 #Lista de Tarefas
-- Deploy : https://petersonihmes.github.io/
+- Deploy : [Todo-list](https://petersonihmes.github.io/to-do-list/)
 <div align="center">
 <img src="https://user-images.githubusercontent.com/118133517/209841926-cc50417c-7c70-48d7-80bd-4d2c689fb7ea.png"/>
 </div>
